@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.exe
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.dll
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\bin\Debug\netcoreapp3.1\07232020_piglatin_capstone.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.dll
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.genruntimeconfig.cache
+C:\Users\Stephen Barr (Work)\source\repos\07232020_piglatin_capstone\07232020_piglatin_capstone\obj\Debug\netcoreapp3.1\07232020_piglatin_capstone.csprojAssemblyReference.cache
