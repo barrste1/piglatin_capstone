@@ -37,8 +37,8 @@ namespace _07232020_piglatin_capstone
                     int numword = 0;
                     //Array vowel has all lowercase vowels, so passing wordLow, the To.Lower of original input, to have
                     //an index location for the first vowel helps determine whether to add "ay" or "way". Important!
-                    int MakePigLatin = wordLow.IndexOfAny(vowel);
-                    if (MakePigLatin == -1)
+                    int firstVowel = wordLow.IndexOfAny(vowel);
+                    if (firstVowel == -1)
                     {   //This is important for handling words like "why" or "fly", which have no vowel, as defined by
                         //the rules of the assignment. No need for CheckCapital as word is already case sensitive.
                         //no changes are made to words that end up here. 
@@ -65,7 +65,7 @@ namespace _07232020_piglatin_capstone
                         //(if vowel first then simply append "way", if consonant then move letters over and add "ay")
                         //puntremoveLower and puntRemove are sent to CheckVowel so that punctuation isn't kept in the 
                         //middle of the word.
-                        output += $" {Program.MakePigLatin(puntRemoveLower, MakePigLatin, puntRemove1)}{word.Substring(wordlen)}";
+                        output += $" {Program.MakePigLatin(puntRemoveLower, firstVowel, puntRemove1)}{word.Substring(wordlen)}";
                     }
                 }
                 Console.Beep(600, 100); Console.Beep(300, 800);
